@@ -1,6 +1,6 @@
 {
   "name": "valentines-app",
-  "homepages": "https://github.com/kbatau/2-14-2025",
+  "homepages": "https://github.com/kbatau/valentines2025",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-+   "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.5",
