@@ -82,7 +82,7 @@ function App() {
                     >
                     <div 
                       className="absolute top-4 right-4 md:size-24 size-16">
-                      <img className="w-full h-full object-contain" src="valentines2025/stamp.png" alt="Heart Stamp"/>
+                      <img className="w-full h-full object-contain" src="/valentines2025/stamp.png" alt="Heart Stamp"/>
                     </div>
                     <span className="text-white text-3xl md:text-5xl caveat-main">For KK</span>
                     </motion.div>
@@ -167,7 +167,7 @@ function App() {
                       className="flex flex-col items-center justify-center gap-8 p-8">
                         <div className="bg-white p-4 rounded-lg shadow-lg w-fit rotate-355">
                           <div className="md:w-64 md:h-64 w-32 h-32 mb-4">
-                            <img className="w-full h-full object-cover rounded" src="valentines2025/line-heart.gif"/>
+                            <img className="w-full h-full object-cover rounded" src="/valentines2025/line-heart.gif"/>
                           </div>
                           
                         </div>
